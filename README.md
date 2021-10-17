@@ -51,6 +51,7 @@ reading scores
 #### Replacing the Thomas High School ninth grade scores returns NaNs for Thomas High School ninth grade data.
 
 ____________________________________________________________
+#### Scores by school spending: 
 
 ![This is an image](Resources/spending_summary_A.PNG)
 Spending Summary - Original
@@ -58,9 +59,10 @@ Spending Summary - Original
 ![This is an image](Resources/spending_summary_B.PNG)
 Spending Summary - Updated
 
-#### Scores by school spending: No noticeable change in school spending when Thomas High School ninth grade data is omitted from the analysis.
+#### No noticeable change in school spending when Thomas High School ninth grade data is omitted from the analysis.
 
 ____________________________________________________________
+#### Scores by school size:
 
 ![This is an image](Resources/size_summary_A.PNG)
 Size Summary - Original
@@ -68,9 +70,10 @@ Size Summary - Original
 ![This is an image](Resources/size_summary_B.PNG)
 Size Summary - Updated
 
-#### Scores by school size: No noticeable change in school spending when Thomas High School ninth grade data is omitted from the analysis.
+#### No noticeable change in school spending when Thomas High School ninth grade data is omitted from the analysis.
 
 ____________________________________________________________
+#### Scores by school type:
 
 ![This is an image](Resources/type_summary_A.PNG)
 Type Summary - Original
@@ -78,7 +81,7 @@ Type Summary - Original
 ![This is an image](Resources/type_summary_B.PNG)
 Type Summary - Updated
 
-#### Scores by school type: No noticeable change in school spending when Thomas High School ninth grade data is omitted from the analysis.
+#### No noticeable change in school spending when Thomas High School ninth grade data is omitted from the analysis.
 
 
 
