@@ -26,7 +26,7 @@ Upon completing the original school district analysis on student_complete.csv an
 - School Summary - Original
 ![This is an image](Resources/per_school_summary_B.PNG)
 - School Summary - Updated
-- The removal of the Thomas High School ninth grade reading and math scores had no impact on the other school score. Thomas High School has a overall reduction in their own math, reading and overall passing percentages.
+- The removal of the Thomas High School ninth grade reading and math scores had no impact on the other school scores. Thomas High School has a overall reduction in their own math, reading and overall passing percentages.
 
 
 
