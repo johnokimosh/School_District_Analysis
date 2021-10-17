@@ -99,4 +99,7 @@ Thomas High School - Updated
 Thomas High School - ONLY 10th, 11th, and 12th Grade
 
 #### - The Thomas High School passing percentages were reduced when ninth grade reading and math scores were replaced with NaNs.
-#### - 
+#### - This would have changed the passing percentages for the district had this data been included in the reamaining analysis.
+#### - The request to complete the analysis with only Thomas High School 10th, 11th, and 12th grade scores returned the scores to near original levels.
+#### - By omitting the NaN scores from the analysis and only using Thomas High School 10th, 11th, and 12th grade scores, the district analysis for spending, population, and school type is virtually unchanged from the original analysis.
+#### - A recommendation to perform the remaining analysis with the NaN data will present a more accurate picture of the effect the academic dishonest can have on the entire district. 
