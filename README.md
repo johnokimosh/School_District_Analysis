@@ -87,7 +87,7 @@ Type Summary - Updated
 
 ## Summary
 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
+### Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
 
 ![This is an image](Resources/Thomas_High_ORIGINAL.PNG)
 Thomas High School - Original
@@ -98,4 +98,5 @@ Thomas High School - Updated
 ![This is an image](Resources/Thomas_High_B.PNG)
 Thomas High School - ONLY 10th, 11th, and 12th Grade
 
-#### 
+#### - The Thomas High School passing percentages were reduced when ninth grade reading and math scores were replaced with NaNs.
+#### - 
