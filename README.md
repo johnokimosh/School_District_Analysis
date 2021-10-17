@@ -15,11 +15,7 @@ District Summary - Original
 District Summary - Updated
 #### The removal of the Thomas High School ninth grade reading and math score reduced the overall average and passing percentages of the district.
 
-
-
-
-
-
+____________________________________________________________
 
 ### How is the school summary affected?
 
@@ -30,7 +26,7 @@ School Summary - Original
 School Summary - Updated
 #### The removal of the Thomas High School ninth grade reading and math scores had no impact on the other school scores. Thomas High School has a overall reduction in their own math, reading and overall passing percentages.
 
-
+____________________________________________________________
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -42,7 +38,7 @@ Thomas High School removing ninth grade scores
 
 #### Analysis was conducted to remove the ninth grade scores and recalculate the scores for Thomas High School with only 10th, 11th, and 12th grade scores. The removal of the ninth grade scores placed Thomas High School back into the top performing schools in the district. The removal of the Thomas High School ninth grade reading and math scores improved the overall performance of the school.
 
-
+____________________________________________________________
 
 ### How does replacing the ninth-grade scores affect the following:
 
@@ -54,7 +50,7 @@ reading scores
 
 #### Replacing the Thomas High School ninth grade scores returns NaNs for Thomas High School ninth grade data.
 
-
+____________________________________________________________
 
 ![This is an image](Resources/spending_summary_A.PNG)
 Spending Summary - Original
@@ -64,7 +60,7 @@ Spending Summary - Updated
 
 #### Scores by school spending: No noticeable change in school spending when Thomas High School ninth grade data is omitted from the analysis.
 
-
+____________________________________________________________
 
 ![This is an image](Resources/size_summary_A.PNG)
 Size Summary - Original
@@ -74,7 +70,7 @@ Size Summary - Updated
 
 #### Scores by school size: No noticeable change in school spending when Thomas High School ninth grade data is omitted from the analysis.
 
-
+____________________________________________________________
 
 ![This is an image](Resources/type_summary_A.PNG)
 Type Summary - Original
@@ -83,6 +79,8 @@ Type Summary - Original
 Type Summary - Updated
 
 #### Scores by school type: No noticeable change in school spending when Thomas High School ninth grade data is omitted from the analysis.
+
+
 
 ## Summary
 
